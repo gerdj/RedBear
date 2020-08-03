@@ -22,5 +22,6 @@ Only for experienced users! Use at your own risk!
 
 
 Based on the BondtechPrusa i3 MK3S / MK2.5S Mosquito Extruder  (www.bondtech.se).
+
 X-Carriage is based on Bear Upgrade from Grégoire Saunier (https://github.com/gregsaun).
 The fan duct is a modified version of RH_Dreambox Fan duct (https://www.thingiverse.com/thing:4217188).
