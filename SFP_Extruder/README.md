@@ -1,4 +1,4 @@
-## SFP Extruder
+## SFP Extruder (BETA)
 
 The SFP Extruder (SFP = Short Filament Path) features a -27.3mm shorter filament path between the Bondtech drive gears and the hotend compared to Bondtech Prusa i3 MK3S / MK2.5S Mosquito Extruder..
 
