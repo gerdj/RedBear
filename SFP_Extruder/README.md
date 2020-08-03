@@ -10,7 +10,7 @@ Summary:
 - 32° fan duct and 5015 fan angle
 - Sensor cover with/without reverse bowden
 
-The SFP Extruder is only compatible with Bear X axis and Mosquito hotend (regular or magnum).
+The SFP Extruder is only compatible with Bear MK3s X axis and Mosquito hotend (regular or magnum).
 It is designed for 20-25mm pancake Nema17 stepper motors.
 
 Print settings, PETG (ABS for fan duct), 0.2mm layer height, 4 perimeters, 5 layers for bottom and top, min. 20% Gyroid infill, no supports.
