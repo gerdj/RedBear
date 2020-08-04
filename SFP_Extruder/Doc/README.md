@@ -1,3 +1,1 @@
-## SFP Extruder Assembly
-
-BOM is in the works.
+## SFP Extruder Assembly and BOM
